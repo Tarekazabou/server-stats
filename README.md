@@ -48,7 +48,7 @@ Disk Usage:
 
 Feel free to open issues or submit PRs to add options, formatting, or more detailed checks.
 
-## License
+## project url 
 
-MIT
+https://roadmap.sh/projects/server-stats
 # server-stats
